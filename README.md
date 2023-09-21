@@ -75,7 +75,7 @@ A dashboard can be created from the `WordGraph Custom.ipynb` in a web applicatio
 The dashboard can be used as a stand-alone application, ie. it can be deployed as a web application, or as a jupyter server extension to switch back and forth between the application and the jupyter notebook while personalizing the pipeline.
 
 ## Demo
-The final WordGraph pipeline application is introduced below :
+The final WordGraph pipeline application is introduced below (a complete demonstration video of the package is provided at https://youtu.be/VOttfnXdXIA) :
 
 ![demo](assets/demo.gif)
 
